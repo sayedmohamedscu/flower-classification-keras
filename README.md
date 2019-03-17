@@ -2,7 +2,7 @@
 
 It was a udacity final project (Pytorch scholership)
 
-to classify 102 type of flower using model transfer technique 
+to classify 102 type of flower using  transfer learning technique 
 
 I tried to use both framworks (keras and pytorch )
 
